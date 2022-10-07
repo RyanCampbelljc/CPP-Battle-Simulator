@@ -1,1 +1,1 @@
-"# C++ Battle Simulator" 
+# C++ Battle Simulator
